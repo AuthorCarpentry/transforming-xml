@@ -7,7 +7,7 @@ Author Carpentry : Transforming Textual Data for Reuse and Republication with XM
 
 **Lesson status: In Development**
 
-##Learning Objectives:
+## Learning Objectives:
 - See original lesson from Programming Historian but adapt for Author Carpentry
   audience http://programminghistorian.org/lessons/transforming-xml-with-xsl
 
